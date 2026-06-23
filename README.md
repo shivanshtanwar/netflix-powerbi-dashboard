@@ -6,11 +6,11 @@ The goal is to uncover insights into content trends, production patterns, and re
 This project is part of my data analytics portfolio to showcase my Power BI and data storytelling skills.
 
 ## 🎯 Objectives
-Analyze global content distribution.
-Identify top content-producing countries (e.g. United States, India)
-Compare Movies vs TV Shows.
-Explore genre popularity and trends.
-Understand content growth over time.
+- Analyze global content distribution.
+- Identify top content-producing countries (e.g. United States, India)
+- Compare Movies vs TV Shows.
+- Explore genre popularity and trends.
+- Understand content growth over time.
 
 ---
 
@@ -33,11 +33,11 @@ Data preprocessing was performed using Excel and Power Query:
 
 ---
 
-🛠️ Tools & Technologies Used
-Power BI (Data Visualization & Dashboarding)
-DAX (Measures & Calculations)
-Power Query (Data Transformation)
-Excel (Initial Data Cleaning)
+## 🛠️ Tools & Technologies Used
+- Power BI (Data Visualization & Dashboarding)
+- DAX (Measures & Calculations)
+- Power Query (Data Transformation)
+- Excel (Initial Data Cleaning)
 
 ---
 
@@ -53,7 +53,7 @@ Excel (Initial Data Cleaning)
 --- 
 
 📷 Dashboard Preview
-![Netflix Dashboard](dashboard netflix.png)
+![Netflix Dashboard](Images/dashboard.png)
 
 ## 📂 Dataset
 - `netflix_raw.csv` → Original dataset  
