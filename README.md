@@ -76,6 +76,6 @@ Data preprocessing was performed using Excel and Power Query:
 
 ## 🔗 Connect With Me
 - LinkedIn: www.linkedin.com/in/shivansh-data-analyst 
-- GitHub: 
+- GitHub: https://github.com/shivanshtanwar
 
 ⭐ If you found this project interesting, feel free to star the repository!
